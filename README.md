@@ -1,2 +1,3 @@
-# hangman
-Code for text based hang man game
+# Text Based Hangman Game in Java following OOP style programming.
+
+Please find the code for hangman game in this repository. 
